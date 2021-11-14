@@ -1,0 +1,79 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "json-server",
+      "password": "typicode",
+      "email": "example@mail.com"
+    },
+    {
+      "username": "Nilgathor",
+      "password": "elviralord",
+      "id": 2,
+      "email": "example@mail.com"
+    },
+    {
+      "username": "chinex",
+      "password": "aneneson",
+      "id": 3,
+      "email": "example@mail.com"
+    },
+    {
+      "username": "xanders",
+      "password": "xandersthelittleking",
+      "email": "xanders@alex.com",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "Product Name": "some comment",
+      "Product Price": 1,
+      "Product Description": "some descriptions",
+      "Product Quantity": 4
+    },
+    {
+      "Product Name": "Ironman Suit",
+      "Product Price": "15750",
+      "Product Description": "One of Tony Stark's own make.",
+      "Product Quantity": "4",
+      "id": 2
+    },
+    {
+      "Product Name": "Zanpakutou",
+      "Product Price": "25450",
+      "Product Description": "Ryuujin Jaaka, blade of the strongest shinigami.",
+      "Product Quantity": "1",
+      "id": 3
+    },
+    {
+      "Product Name": "Mjolnir",
+      "Product Price": "25750",
+      "Product Description": "Thundergod's hammer for the chosen.",
+      "Product Quantity": "1",
+      "id": 4
+    },
+    {
+      "Product Name": "Basketball Jersey",
+      "Product Price": "5500",
+      "Product Description": "Jerseys for the generation of miracle members.",
+      "Product Quantity": "6",
+      "id": 5
+    },
+    {
+      "Product Name": "Hokage Hat",
+      "Product Price": "2500",
+      "Product Description": "A hat for the leaders of the Hidden Leaf.",
+      "Product Quantity": "7",
+      "id": 6
+    }
+  ],
+  "login": [
+    {
+      "token": 12345,
+      "username": "chinex",
+      "date": "12/24/2019"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+TODOS
+
+1. Build the project
+    - creating the folder
+    - adding files
+    - connecting files
+
+2. Navbar
+    - links and name
+
+3. Portfolio ittem grid
+    - images
+    - titles
+    - descriptions
+    - animations
+    - JavaScript
+
+4. About Page
+    - image
+    - split column layout
+    - content
+
